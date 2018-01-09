@@ -44,10 +44,10 @@ public class Main {
 	public static void main(String[] args) {
 
 		Bank bSBI = new SBI();  
-		System.out.println("SBI of PNB bank :"+bSBI.rateOfInterest());
+		System.out.println("SBI of the PNB bank :"+bSBI.rateOfInterest());
 		 
 		Bank bPNB = new PNB();
-		System.out.println("ROI of PNB bank :"+bPNB.rateOfInterest());
+		System.out.println("ROI of the PNB bank :"+bPNB.rateOfInterest());
 		
 		bPNB.getNonAbstractMethod(); 
 		 
