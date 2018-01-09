@@ -51,6 +51,8 @@ public class Main {
 		
 		bPNB.getNonAbstractMethod(); 
 		
+		System.out.println("Test 1");
+		
 	}
 
 	  
