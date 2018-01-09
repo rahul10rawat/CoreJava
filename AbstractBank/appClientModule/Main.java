@@ -50,8 +50,7 @@ public class Main {
 		System.out.println("ROI of PNB bank :"+bPNB.rateOfInterest());
 		
 		bPNB.getNonAbstractMethod(); 
-		
-		System.out.println("Test 1");
+		 
 		
 	}
 
