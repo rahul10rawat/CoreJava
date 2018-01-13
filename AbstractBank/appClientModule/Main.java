@@ -51,7 +51,7 @@ public class Main {
 		
 		bPNB.getNonAbstractMethod(); 
 		 
-		//s
+		//snh
 	}
 
 	  
